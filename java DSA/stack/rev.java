@@ -1,3 +1,4 @@
+// revrese the elements in the stack 
 package stack;
 import java.util.*;
 public class rev {
