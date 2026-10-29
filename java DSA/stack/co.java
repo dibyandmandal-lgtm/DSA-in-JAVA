@@ -1,3 +1,4 @@
+// copy the elements int he stack 
 package stack;
 import java.util.*;
 public class co {
